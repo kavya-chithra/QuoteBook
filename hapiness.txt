@@ -1,3 +1,4 @@
 this is first quote
 this is changed line
-this is merge test
+this is merge tes
+this is merger test for both master and branch
