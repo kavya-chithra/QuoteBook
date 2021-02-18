@@ -1,2 +1,3 @@
 this is new branch text1
 this is merge test for both master and branch
+new_branch likes chocolate
